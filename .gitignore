@@ -1,0 +1,13 @@
+.claude/
+
+# pi session state (per-user, not project content)
+.pi/sessions/
+.pi/cache/
+.pi/logs/
+
+# python helper bytecode
+__pycache__/
+*.pyc
+
+
+docs/
